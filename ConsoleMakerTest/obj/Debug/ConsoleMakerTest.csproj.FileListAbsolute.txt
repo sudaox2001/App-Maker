@@ -1,0 +1,8 @@
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\bin\Debug\ConsoleMakerTest.exe
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\bin\Debug\ConsoleMakerTest.pdb
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\obj\Debug\ConsoleMakerTest.csprojResolveAssemblyReference.cache
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\obj\Debug\ConsoleMakerTest.Properties.Resources.resources
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\obj\Debug\ConsoleMakerTest.csproj.GenerateResource.Cache
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\obj\Debug\ConsoleMakerTest.exe
+c:\users\macbook\documents\visual studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\obj\Debug\ConsoleMakerTest.pdb
+c:\Users\macbook\Documents\Visual Studio 2012\Projects\ConsoleMakerTest\ConsoleMakerTest\obj\Debug\ConsoleMakerTest.Form1.resources
